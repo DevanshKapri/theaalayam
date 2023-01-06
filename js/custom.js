@@ -44,8 +44,8 @@ function zebraDatePickerInit() {
 function thmCounter() {
     if ($('.counter').length) {
         $('.counter').counterUp({
-            delay: 10,
-            time: 3000
+            delay: 7,
+            time: 500
         });
     };
 }
