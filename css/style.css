@@ -44,6 +44,10 @@ img {
     position: relative;
 }
 
+.sec-title p {
+    margin-top: 10px;
+}
+
 .sec-title h1 {
     font-family: 'Lora';
     font-size: 85px;
