@@ -16,6 +16,9 @@
     .sec-title h1 {
         font-size: 6rem;
     }
+    .sec-title h2 {
+        font-size: 3rem;
+    }
     .sec-pad {
         padding: 50px 10px;
     }
