@@ -1,3 +1,5 @@
+
+
 /*
 * =1 global style
 */
@@ -200,6 +202,7 @@ img {
     background: var(--dark-1);;
     padding: 10px 0px 5px 0px;
     display: flex;
+    flex-wrap: wrap;
     width: 100%;
     height: auto;
     align-items: center;
